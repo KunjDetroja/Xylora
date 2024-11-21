@@ -15,7 +15,7 @@ A comprehensive Employee Management System designed to enhance organizational ef
 - Assign tasks to project members with attachments.
 - Task progress: **Submitted** → **Finish** (manager approval).
 - Personal boards for individual task tracking.
-- 
+  
 ### 3. Grievance Handling
 - Employees can report issues with attachments (photos/videos), titles, and descriptions.
 - User-friendly drag-and-drop grievance card interface for status updates and custom ordering.
