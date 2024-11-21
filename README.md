@@ -9,17 +9,17 @@ A comprehensive Employee Management System designed to enhance organizational ef
 - **Special Permissions** field allows employees to have additional permissions beyond their role.
 - Dynamic role and department management.
 
-### 2. Grievance Handling
-- Employees can report issues with attachments (photos/videos), titles, and descriptions.
-- User-friendly drag-and-drop grievance card interface for status updates and custom ordering.
-- Grievance assignment permissions for assigning grievances to specific employees.
-
-### 3. Project Management
+### 2. Project Management
 - Create projects with details: title, description, start date, due date, manager, and members.
 - Project boards for task management with editable columns.
 - Assign tasks to project members with attachments.
 - Task progress: **Submitted** → **Finish** (manager approval).
 - Personal boards for individual task tracking.
+- 
+### 3. Grievance Handling
+- Employees can report issues with attachments (photos/videos), titles, and descriptions.
+- User-friendly drag-and-drop grievance card interface for status updates and custom ordering.
+- Grievance assignment permissions for assigning grievances to specific employees.
 
 ### 4. Real-Time Updates
 - Live notifications and updates using **Socket.io** for all active employees.
